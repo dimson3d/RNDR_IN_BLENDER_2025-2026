@@ -3,3 +3,5 @@ Information and suplemental materials for new course about rendering for archite
 Course published on BIM.VC platform for Architects and CG artists in building and construction industry.
 Course based on Blender 4.2 LTS release.
 Education year 2025 - 2026.
+
+Main documentation and papers for course.
